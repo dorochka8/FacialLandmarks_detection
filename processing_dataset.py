@@ -4,7 +4,7 @@ import pandas as pd
 
 from main_functions import detecting_landmarks, add_eye_centers, calculate_metrics, plot_imgs_w_landmarks, plot_imgs_wo_landmarks, plot_metrics
 
-data = pd.read_csv('data/training.csv')
+data = pd.read_csv(PATH_TO_DATASET)
 print(data.head(3))
 print(data.info())
 print(data.isna().sum())
