@@ -12,6 +12,17 @@ URLs = ['https://s1.r29static.com/bin/entry/444/1080x1350,80/1536751/image.jpg',
         'https://s2.r29static.com/bin/entry/18f/1080x1350,80/1536758/image.jpg',
         'https://s2.r29static.com/bin/entry/9ac/1080x1350,80/1536761/image.jpg',
         'https://s2.r29static.com/bin/entry/cd4/1080x1350,80/1536763/image.jpg',
+        'https://s1.r29static.com/bin/entry/23a/1080x1350,80/1536753/image.jpg',
+        'https://s1.r29static.com/bin/entry/564/1080x1350,80/1536755/image.jpg',
+        'https://s3.r29static.com/bin/entry/412/1080x1350,80/1536759/image.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2017/02/09202215/linus.faces22052.web_.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2022/05/10133823/KenThompson20516-1.web_-1229x1536.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2017/03/29182620/kristinepeterson.faces23463-2.web_.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2018/08/31025129/jessmckellar28843-1.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2017/03/21214903/stormy.faces23764.web_.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2016/04/23071145/faces.GuidovanRossum20593.web_.jpg',
+        'https://cdn.facesofopensource.com/wp-content/uploads/2017/03/21210318/sallyk.faces23990.web_.jpg',
+        'https://s1.r29static.com/bin/entry/43a/0,0,2000,2400/1440x1728,80/1536749/image.jpg',
         ]
 imgs = download_imgs(URLs)
 
