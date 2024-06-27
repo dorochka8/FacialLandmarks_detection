@@ -7,7 +7,7 @@ One can use the provided functions to calculate metrics, visualize predictions, 
 
 
 ## Model parameters
-Install requires libraries:
+Install required libraries:
 ```
 pip install opencv-python dlib
 ```
