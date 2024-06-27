@@ -17,10 +17,10 @@ predictor = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
 ```
 ## Landmarks on random data
 Examples of provided URLs: \
-![cbd0fd67-74a4-460d-9104-38d1f1de4acb](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/bab080d5-d3aa-4802-831a-3dbebcc419aa)
+![Unknown](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/9c0aa89f-84ae-4426-8d3e-cbc3c91f3974)
 
 Results of evaluating `shape_predictor_68_face_landmarks.dat` predictor:\
-![ddc886d1-18cc-44df-8fc7-e70127a1e0bb-1](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/abf1e1cc-dc77-4f31-b5dd-0cb18c902b64)
+![Unknown-2](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/fc9402bc-d220-400a-8d72-4771625ec5ce)
 
 ## Processing dataset
 The dataset is way to big. \
