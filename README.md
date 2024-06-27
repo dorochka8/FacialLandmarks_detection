@@ -9,7 +9,7 @@ One can use the provided functions to calculate metrics, visualize predictions, 
 ## Model parameters
 Install required libraries:
 ```
-pip install opencv-python dlib
+pip install opencv-python dlib supervisely
 ```
 
 Make sure to upload the `shape_predictor_68_face_landmarks.dat` model.
