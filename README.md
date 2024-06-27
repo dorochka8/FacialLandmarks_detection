@@ -18,11 +18,19 @@ detector  = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
 ```
 ## Landmarks on random data
-Examples of provided URLs:
-
+Examples of provided URLs: \
 ![cbd0fd67-74a4-460d-9104-38d1f1de4acb](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/bab080d5-d3aa-4802-831a-3dbebcc419aa)
 
-
-Results of evaluating `shape_predictor_68_face_landmarks.dat` predictor:
-
+Results of evaluating `shape_predictor_68_face_landmarks.dat` predictor:\
 ![ddc886d1-18cc-44df-8fc7-e70127a1e0bb-1](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/abf1e1cc-dc77-4f31-b5dd-0cb18c902b64)
+
+
+## Working with dataset
+Best detections, predicted with `shape_predictor_68_face_landmarks.dat` model:\
+![3983e62f-d47f-4ee3-850d-2ddfef5bfabc](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/c61081bb-af46-4140-bd42-9b9eb012fd91)
+
+Worst detections, predicted with `shape_predictor_68_face_landmarks.dat` model:\
+![e2b4ad19-0187-4405-8f49-fe4f0107a958](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/29f5f62e-c2e1-4b3f-938b-ae42fb880a5d)
+
+Not detected landmarks, fails: \
+![e3e49fc8-063d-4639-b6da-a3f7a9e944a4](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/fc75c90b-71eb-4e12-a23f-465f8c219e3c)
