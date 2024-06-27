@@ -25,7 +25,7 @@ Results of evaluating `shape_predictor_68_face_landmarks.dat` predictor:\
 ![ddc886d1-18cc-44df-8fc7-e70127a1e0bb-1](https://github.com/dorochka8/FacialLandmarks_detection/assets/97133490/abf1e1cc-dc77-4f31-b5dd-0cb18c902b64)
 
 
-## Working with dataset
+## Processing dataset
 The dataset is way to big. \
 Directly download `training.csv` from [Kaggle/Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection/data?select=training.zip).
 
